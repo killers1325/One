@@ -1,7 +1,7 @@
 
 let numeroSecreto = 0;
 let intentos = 0;
-let maximoIntentos = 4;
+let maximoIntentos = 5;
 let numeroSorteados = [];
 let numeroMaximo = 10;
 
